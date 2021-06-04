@@ -1,0 +1,39 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
+table {
+    font: "Times New Roman", Times, serif;
+    font-size: 30px;
+    width: 33.33%;
+    background-color:rgb(240,248,255);
+    
+    text-align: center;
+}
+
+td,th{
+  border: 1px solid black;
+  padding: 5px;
+  width: ;
+}
+
+th{
+  background:rgb(168, 218, 213);
+}
+
+th:hover{
+  background:rgb(240,248,255);
+}
+
+main{
+    text-align: center;
+    /* display: block; */
+    padding:10px 30vw ;
+    /* width: auto; */
+}
